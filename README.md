@@ -10,6 +10,6 @@
 # fork https://github.com/ahmadqsyaa/bot-whatsapp-sticker-auto<br>
 
 <h2>TANKS TO</h2>
-# https://github.com/theazran/StickerWA
+# https://github.com/theazran/StickerWA<br>
 # https://github.com/fushigo
 🥰
