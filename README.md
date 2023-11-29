@@ -9,3 +9,8 @@
 <h2>deploy to vercel ⚒</h2>
 # fork https://github.com/ahmadqsyaa/bot-whatsapp-sticker-auto<br>
 # open vercel.com and deploy url github https://github.com/yournamegithub/bot-whatsapp-sticker-auto<br>
+
+<h2>TANKS TO</h2>
+# https://github.com/theazran/StickerWA
+# https://github.com/fushigo
+🥰
